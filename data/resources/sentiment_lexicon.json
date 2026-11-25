@@ -1,0 +1,22 @@
+{
+  "positive": [
+    "badiya", "badhiya", "achha", "accha", "acha", "mast", "swadu", "sawad", "swad",
+    "kasuta", "kasute", "kasuti", "ksoota", "sahi", "khush", "khushi", "zabardast",
+    "gazab", "gjb", "top", "solid", "dhamal", "dhamaal", "clean", "smooth", "perfect",
+    "entertaining", "satisfaction", "impact", "jaan", "izzat", "mann bharya", "bharosa",
+    "jeeta", "jeet", "dil jeet liya", "shandar", "badhiyaa", "masti", "shanti"
+  ],
+  "negative": [
+    "bekaar", "bekar", "ghatiya", "dikkat", "dikat", "naas", "dheela", "dhila",
+    "boring", "bura", "bakwaas", "bakwas", "fail", "slow", "weak", "kharab", "crash",
+    "time waste", "waste", "sir dard", "ajeeb", "confusing", "tension", "gussa",
+    "mismatch", "bojh", "bikhar", "dukhi", "chup", "pareshan", "faltu", "fraud",
+    "nuksan", "lut", "ulta", "daga"
+  ],
+  "negation_markers": [
+    "na", "nahi", "nhi", "konya", "koni", "kone", "mat", "nako"
+  ],
+  "contrast_markers": [
+    "par", "lekin", "magar", "but", "fir bhi", "phir bhi", "halanki", "parantu"
+  ]
+}

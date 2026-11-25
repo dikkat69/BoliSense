@@ -1,0 +1,7 @@
+Model,Accuracy,Macro_Precision,Macro_Recall,Macro_F1,Positive_F1
+Majority Baseline,0.5244,0.2622,0.5,0.344,0.0
+Multinomial Naive Bayes,0.7683,0.7721,0.7648,0.7655,0.7397
+Word TF-IDF + Logistic Reg.,0.7683,0.7721,0.7648,0.7655,0.7397
+Char TF-IDF + Logistic Reg.,0.7439,0.7434,0.7427,0.7429,0.7273
+TF-IDF + Linear SVM,0.7317,0.7317,0.7323,0.7315,0.725
+Proposed BoliSense Hybrid,0.8171,0.8188,0.8148,0.8157,0.8

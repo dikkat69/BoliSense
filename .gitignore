@@ -1,0 +1,27 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Intermediate generated artifacts & archives
+*.zip
+*.tar.gz
+report/Project_Report.html
+
+# Streamlit secrets
+.streamlit/secrets.toml

@@ -1,0 +1,83 @@
+sentence,true_label,hybrid_predicted,hybrid_correct,hybrid_prob_pos,linear_svm_pred,word_logreg_pred,naive_bayes_pred
+yo goal kasuta finish hoya last moment pe,1,1,1,0.8374,1,1,1
+kaam karte waqt lagya direction thodi galat pakdi se,0,0,1,0.4901,1,0,0
+"yo project best se, kaafi smooth chal raha hai aur overall experience theek tha",1,1,1,0.8785,1,1,1
+experience chhota tha par acha reya,1,1,1,0.8712,1,1,0
+yo kaam dekh ke lagya kisi ne aadhe mann te banaya se,0,1,0,0.5356,0,0,0
+pehli baar kisi gaane ne itna andar tak asar karya,1,1,1,0.6164,1,1,1
+bhai direction me effort dikha clearly,1,1,1,0.5765,1,1,1
+result dekh ke laga kuch missing sa reh gya,0,0,1,0.2393,0,0,0
+bhai bilkul bakwaas bana diya,0,0,1,0.0749,0,0,0
+yo cheez ghani useful se par sabke kaam ki na se,1,0,0,0.3168,0,0,0
+"yo design zabardast se, bahut badiya hai aur overall experience theek tha",1,1,1,0.9455,1,1,1
+us player ne akela match ghuma diya dusri side,1,1,1,0.5332,1,1,0
+yo system reliable na lagya bilkul,0,0,1,0.0294,0,0,0
+result dheere aaya par sahi tha finally,1,1,1,0.9684,1,1,1
+chora pura din hawa me uddta rahya par kaam ek dhang ka na karya,0,0,1,0.2122,0,0,0
+output theek aaya par process me ghani uljhan rahi,0,1,0,0.6896,1,1,1
+yo kaam badhiya se par speed ghani kam se,0,1,0,0.9178,1,0,0
+"ye idea worst se, kaam nahi kar raha",0,0,1,0.1026,0,0,0
+output kaafi clean hai,1,1,1,0.8801,1,1,1
+kaam karte waqt lagya control pura haath me na se,0,0,1,0.0802,0,0,0
+yo kaam bina dikkat ke complete ho gya aaj,1,0,0,0.1303,0,0,0
+bekaar ka scene tha,0,0,1,0.1025,0,0,0
+gaam ki galiyon me shaam ne alag e ronak jag jya se,1,1,1,0.6994,1,0,0
+"yo app badiya se, bahut badiya hai aur overall experience theek tha",1,1,1,0.9568,1,1,1
+yo feature dheere se par stable chal reya se,1,1,1,0.7812,1,1,1
+"ye feature clean se, kaafi smooth chal raha hai",1,1,1,0.9873,1,1,1
+match me control hi na bana properly,0,0,1,0.111,0,0,0
+yo feature use karte waqt dikkat hoti rahi,0,0,1,0.087,0,0,0
+output mismatch aaya se,0,0,1,0.0771,0,1,0
+beech baat me usne aisi ulti boli maari ke sab chup ho ge,0,0,1,0.2556,1,1,1
+gaam ke buzurg ki ek baat ne poori soch badal di,1,1,1,0.6422,1,1,1
+bhai pura scene hi ghatiya ho gya,0,0,1,0.0668,0,0,0
+tractor dal-dal me fasgya par chora himmat te kaam leta rahya,1,1,1,0.5505,0,1,0
+yo gaana sun ke maza aa gya,1,1,1,0.764,1,1,1
+college fest me is baar sach me jaan si thi,1,1,1,0.9221,1,1,1
+master ji ki daant buri lagi par kaam aa gyi baad me,1,1,1,0.8628,1,1,1
+"ye feature perfect se, dil khush kar diya",1,1,1,0.9806,1,1,1
+bhai movie ka start kasuta tha par end weak lagya,0,0,1,0.1553,0,0,0
+kaam chal gya par jo expectation thi wo puri na hoyi,0,0,1,0.178,0,0,0
+uski awaaz me mitti ki khushboo si mehsoos hoyi,1,1,1,0.5686,1,1,1
+network ka scene itna kharab tha ke class join e na hoi,0,0,1,0.0169,0,0,0
+beech me light chali gyi aur pura mahol baith gya,0,1,0,0.5582,0,0,0
+"yo project smooth se, kaafi smooth chal raha hai aur overall experience theek tha",1,1,1,0.9775,1,1,1
+gaam ke chore ne aakhri minute me izzat bacha li team ki,1,1,1,0.9179,1,1,1
+yo dekh ke lagya mehnat to kari se isme,1,0,0,0.466,0,0,0
+yo thoda confusing sa lagya use me,0,0,1,0.0748,1,0,0
+yo kaam dekh ke irritate ho gya,0,0,1,0.3341,0,0,0
+bhai goal miss kar diya bilkul nakli sa shot tha,0,0,1,0.4484,0,0,0
+"yo project sahi se, full entertaining tha",1,1,1,0.9602,1,1,1
+"yo result accha se, dil khush kar diya aur overall experience theek tha",1,1,1,0.97,1,1,1
+bhai yo feature kasuta kaam kare se,1,1,1,0.8924,1,1,1
+"ye feature mast se, ekdum mast lagya aur overall experience theek tha",1,1,1,0.967,1,1,1
+yo plan sahi se par execution weak se,0,0,1,0.1283,0,0,0
+time waste,0,0,1,0.1261,0,0,0
+yo kaam dhang te na hoya,0,0,1,0.0985,0,0,0
+pehle doubt sa reya par baad me confidence aa gya kaam pe,1,1,1,0.6607,1,0,0
+"ye idea solid se, bahut badiya hai aur overall experience theek tha",1,1,1,0.9607,1,1,1
+"ye movie worst se, bahut slow chal raha hai",0,0,1,0.1569,1,1,1
+bilkul fail,0,0,1,0.0401,0,0,0
+yo result samajh na aaya,0,0,1,0.1189,0,0,0
+"ye feature problematic se, time waste hai",0,0,1,0.0933,0,0,0
+bina practice ke bhi usne ground pe dhamal kar diya,1,1,1,0.924,1,1,1
+yo kushti thodi lambi ho gyi par maza aa gya,1,1,1,0.8012,1,1,1
+itna bhi bura na tha par acha bhi na laga,0,0,1,0.0197,0,0,0
+yo gaana mast se par thoda boring lagya,0,0,1,0.1553,1,1,1
+"ye movie buggy se, time waste hai",0,0,1,0.144,0,0,0
+"yo phone smooth se, full entertaining tha aur overall experience theek tha",1,1,1,0.9644,1,1,1
+defense strong tha par thodi dikkat bhi aayi,1,0,0,0.0297,0,0,0
+yo to bilkul bekaar nikla,0,0,1,0.0648,0,0,0
+pehle lagya bekaar se par use kar ke thoda better feel aaya,1,0,0,0.1608,0,0,0
+"ye idea faltu se, time waste hai aur overall experience theek tha",0,0,1,0.0129,0,0,0
+manne laga tha kuch khas hoga par bas theek-thaak hi nikla,0,0,1,0.3824,0,0,0
+yo design ghatiya se,0,0,1,0.0597,0,0,0
+yo game dekh ke mann na bharya pura,0,0,1,0.049,0,0,0
+yo system theek te kaam na kar reya,0,0,1,0.0866,0,0,0
+khet me pehli hari patti dekh ke mann khil gya,1,1,1,0.5612,1,0,0
+system ne expected tarike se kaam kiya,1,1,1,0.5272,1,0,0
+"ye idea useless se, bilkul bekaar hai aur overall experience theek tha",0,0,1,0.0544,0,0,0
+yo kaam dekh ke laga kuch missing sa reh gya andar,0,0,1,0.2724,0,0,0
+kaam ka na,0,0,1,0.1712,0,0,0
+team pressure me bikhar gyi aur match haath te nikal gya,0,0,1,0.1597,1,1,1
+is baar mela pehle jaisa rang jama na paya,0,0,1,0.15,0,0,0

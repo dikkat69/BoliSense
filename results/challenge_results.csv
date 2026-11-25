@@ -1,0 +1,7 @@
+Model,Challenge_Accuracy,Challenge_Macro_F1
+Majority Baseline,0.4462,0.3085
+Multinomial Naive Bayes,0.6769,0.6741
+Word TF-IDF + Logistic Reg.,0.6308,0.6307
+Char TF-IDF + Logistic Reg.,0.6308,0.6286
+TF-IDF + Linear SVM,0.6615,0.6595
+Proposed BoliSense Hybrid,0.6769,0.6741

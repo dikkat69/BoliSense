@@ -1,0 +1,5 @@
+Metric,Value
+Total Minimal Pairs,32 pairs (65 samples)
+Spelling Invariance Consistency,100.0% (Identical predictions across variants)
+Spelling Correctness,66.7% (All spelling variants predicted correctly)
+Polarity-Flip Sensitivity,37.9% (Adversarial negation / contrast flips)

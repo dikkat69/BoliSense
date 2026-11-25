@@ -1,0 +1,648 @@
+sentence,label,type
+"ye idea perfect se, kaafi smooth chal raha hai",1,simple
+"ye feature perfect se, bahut badiya hai",1,simple
+"ye idea clean se, dil khush kar diya",1,simple
+"yo project buggy se, kaam nahi kar raha",0,simple
+"yo app accha se, full entertaining tha",1,simple
+"yo result badiya se, kaafi smooth chal raha hai",1,simple
+"ye feature perfect se, dil khush kar diya",1,simple
+"ye feature problematic se, time waste hai",0,simple
+"yo project faltu se, mood kharab kar diya",0,simple
+"ye idea worst se, kaam nahi kar raha",0,simple
+"ye movie boring se, bilkul bekaar hai",0,simple
+"yo design accha se, ekdum mast lagya",1,simple
+"yo design problematic se, bilkul bekaar hai",0,simple
+"ye feature sahi se, full entertaining tha",1,simple
+"ye feature sahi se, bahut badiya hai",1,simple
+"yo design clean se, kaafi smooth chal raha hai",1,simple
+"yo system useless se, mood kharab kar diya",0,simple
+"yo project accha se, ekdum mast lagya",1,simple
+"ye movie worst se, bahut slow chal raha hai",0,simple
+"yo result clean se, full entertaining tha",1,simple
+"yo result zabardast se, full entertaining tha",1,simple
+"ye feature boring se, bilkul bekaar hai",0,simple
+"yo result badiya se, ekdum mast lagya",1,simple
+"yo phone best se, full entertaining tha",1,simple
+"ye feature accha se, kaafi smooth chal raha hai",1,simple
+"yo kaam problematic se, kaam nahi kar raha",0,simple
+"ye feature clean se, kaafi smooth chal raha hai",1,simple
+"ye feature problematic se, bilkul bekaar hai",0,simple
+"yo project sahi se, full entertaining tha",1,simple
+"yo project kharab se, bilkul bekaar hai",0,simple
+"yo app perfect se, kaafi smooth chal raha hai",1,simple
+"ye idea bekaar se, kaam nahi kar raha",0,simple
+"yo phone ghatiya se, bilkul bekaar hai",0,simple
+"ye movie buggy se, time waste hai",0,simple
+"yo kaam slow se, mood kharab kar diya",0,simple
+"ye movie perfect se, bahut badiya hai",1,simple
+"yo project problematic se, mood kharab kar diya",0,simple
+"ye feature ghatiya se, kaam nahi kar raha",0,simple
+"yo result kharab se, time waste hai",0,simple
+"yo result solid se, full entertaining tha",1,simple
+"yo app badiya se, bahut badiya hai aur overall experience theek tha",1,complex
+"yo system clean se, kaafi smooth chal raha hai aur overall experience theek tha",1,complex
+"ye idea solid se, bahut badiya hai aur overall experience theek tha",1,complex
+"yo app kharab se, mood kharab kar diya aur overall experience theek tha",0,complex
+"yo result accha se, dil khush kar diya aur overall experience theek tha",1,complex
+"yo system badiya se, dil khush kar diya aur overall experience theek tha",1,complex
+"yo result slow se, mood kharab kar diya aur overall experience theek tha",0,complex
+"ye idea useless se, bilkul bekaar hai aur overall experience theek tha",0,complex
+"yo result boring se, bilkul bekaar hai aur overall experience theek tha",0,complex
+"ye idea faltu se, time waste hai aur overall experience theek tha",0,complex
+"yo result problematic se, bahut slow chal raha hai aur overall experience theek tha",0,complex
+"yo project best se, kaafi smooth chal raha hai aur overall experience theek tha",1,complex
+"yo project ghatiya se, kaam nahi kar raha aur overall experience theek tha",0,complex
+"yo design faltu se, kaam nahi kar raha aur overall experience theek tha",0,complex
+"yo design zabardast se, bahut badiya hai aur overall experience theek tha",1,complex
+"yo kaam badiya se, kaafi smooth chal raha hai aur overall experience theek tha",1,complex
+"ye feature accha se, full entertaining tha aur overall experience theek tha",1,complex
+"yo phone buggy se, kaam nahi kar raha aur overall experience theek tha",0,complex
+"yo design kharab se, kaam nahi kar raha aur overall experience theek tha",0,complex
+"yo app smooth se, kaafi smooth chal raha hai aur overall experience theek tha",1,complex
+"yo project smooth se, kaafi smooth chal raha hai aur overall experience theek tha",1,complex
+"ye feature mast se, ekdum mast lagya aur overall experience theek tha",1,complex
+"yo result worst se, kaam nahi kar raha aur overall experience theek tha",0,complex
+"yo design slow se, time waste hai aur overall experience theek tha",0,complex
+"yo design solid se, bahut badiya hai aur overall experience theek tha",1,complex
+"yo design ghatiya se, mood kharab kar diya aur overall experience theek tha",0,complex
+"yo phone smooth se, full entertaining tha aur overall experience theek tha",1,complex
+"yo phone buggy se, time waste hai aur overall experience theek tha",0,complex
+"yo result kharab se, time waste hai aur overall experience theek tha",0,complex
+"yo design clean se, dil khush kar diya aur overall experience theek tha",1,complex
+performance kaafi impressive hai,1,code-mixed
+app baar baar crash ho raha hai,0,code-mixed
+output kaafi clean hai,1,code-mixed
+output kaafi clean hai,1,code-mixed
+performance kaafi impressive hai,1,code-mixed
+user experience kaafi poor hai,0,code-mixed
+performance kaafi impressive hai,1,code-mixed
+performance kaafi impressive hai,1,code-mixed
+app baar baar crash ho raha hai,0,code-mixed
+app baar baar crash ho raha hai,0,code-mixed
+user experience kaafi poor hai,0,code-mixed
+user experience kaafi smooth hai,1,code-mixed
+app baar baar crash ho raha hai,0,code-mixed
+user experience kaafi poor hai,0,code-mixed
+user experience kaafi poor hai,0,code-mixed
+user experience kaafi smooth hai,1,code-mixed
+performance kaafi impressive hai,1,code-mixed
+system properly respond nahi kar raha,0,code-mixed
+user experience kaafi smooth hai,1,code-mixed
+user experience kaafi poor hai,0,code-mixed
+user experience kaafi poor hai,0,code-mixed
+user experience kaafi smooth hai,1,code-mixed
+performance kaafi impressive hai,1,code-mixed
+system properly respond nahi kar raha,0,code-mixed
+system properly respond nahi kar raha,0,code-mixed
+performance kaafi impressive hai,1,code-mixed
+performance kaafi impressive hai,1,code-mixed
+app baar baar crash ho raha hai,0,code-mixed
+output kaafi clean hai,1,code-mixed
+user experience kaafi smooth hai,1,code-mixed
+yo kaam ghana badhiya se,1,simple
+manne yo kaam ghana pasand aaya,1,simple
+bhai yo system ekdum mast chal reya se,1,simple
+yo result bera bera sahi aaya se,1,simple
+yo project badiya tareeke te hoya se,1,simple
+yo app smoothly chal reya se,1,simple
+yo design dekh ke dil khush ho gya,1,simple
+yo feature kaam ka se,1,simple
+yo plan sahi se chal reya se,1,simple
+yo gaana sun ke maza aa gya,1,simple
+ghana sahi se yo kaam,1,simple
+yo system bilkul theek se chal reya,1,simple
+yo kaam dekh ke khushi ho li,1,simple
+yo result ekdum perfect aaya se,1,simple
+yo feature bera bera kaam kare se,1,simple
+yo kaam bekaar se,0,simple
+manne yo pasand na aaya,0,simple
+yo system theek te kaam na kar reya,0,simple
+yo project fail ho gaya se,0,simple
+yo result galat aaya se,0,simple
+yo app bar bar ruk reya se,0,simple
+yo design ghatiya se,0,simple
+yo feature kaam ka na se,0,simple
+yo plan ulta pad gya,0,simple
+yo gaana sun ke mood kharab ho gya,0,simple
+yo kaam bilkul fail se,0,simple
+system dheere chal reya se,0,simple
+yo result samajh na aaya,0,simple
+yo kaam theek te hoya na,0,simple
+yo system ruk ruk ke chal reya,0,simple
+yo kaam badhiya se par speed ghani kam se,0,complex
+yo system theek se par bar bar ruk jya se,0,complex
+result sahi aaya par process mushkil reya,0,complex
+yo feature useful se lekin kaam theek na kare,0,complex
+yo design badiya se par usability kam se,0,complex
+yo app chal reya se par smooth na se,0,complex
+yo plan sahi se par execution weak se,0,complex
+yo gaana mast se par thoda boring lagya,0,complex
+yo kaam theek se par satisfaction na se,0,complex
+yo system fast se par stable na se,0,complex
+shuru me badhiya lagya par baad me dikkat aayi,0,complex
+pehle theek reya par end me fail ho gaya,0,complex
+yo result theek se par expected jaisa na se,0,complex
+yo kaam chal reya se par output weak se,0,complex
+yo system sahi se par kabhi kabhi ruk jya se,0,complex
+manne ghana pasand aaya yo kaam,1,mixed
+dil khush ho gya yo system dekh ke,1,mixed
+bhai yo result ekdum solid se,1,mixed
+yo feature ek number kaam kare se,1,mixed
+yo app ka experience ghana smooth reya,1,mixed
+yo design ekdum set se,1,mixed
+yo project top level ka hoya se,1,mixed
+yo gaana ekdum kadak se,1,mixed
+yo plan bera bera sahi se,1,mixed
+yo system ka performance badiya reya,1,mixed
+ekdum mast kaam hoya se yo,1,mixed
+yo result dekh ke maza aa gya,1,mixed
+yo kaam ghana sahi lagya manne,1,mixed
+yo system ka output ekdum perfect se,1,mixed
+yo feature ka kaam badiya reya,1,mixed
+manne pasand na aaya yo kaam,0,mixed
+mood kharab ho gya yo system dekh ke,0,mixed
+bhai yo result bilkul fail se,0,mixed
+yo feature kaam hi na kare theek te,0,mixed
+yo app ka experience kharab reya,0,mixed
+yo design bilkul bekaar se,0,mixed
+yo project gadbad hoya se,0,mixed
+yo gaana sun ke sir dard ho gya,0,mixed
+yo plan theek na se bilkul,0,mixed
+yo system ka performance weak se,0,mixed
+yo result dekh ke samajh na aaya,0,mixed
+yo kaam manne bilkul pasand na aaya,0,mixed
+yo feature ka output galat aaya,0,mixed
+yo system ka behavior unstable se,0,mixed
+yo kaam dhang te na hoya,0,mixed
+moj ho gyi bhai,1,slang
+ekdum mast bhai,1,slang
+ghana sahi se yo,1,slang
+maza aa gya,1,slang
+full badiya kaam,1,slang
+ek number bhai,1,slang
+kadak kaam se,1,slang
+ekdum solid,1,slang
+jhakaas se bhai,1,slang
+mast chalya,1,slang
+bilkul bakwaas,0,slang
+bekaar kaam,0,slang
+faltu se bilkul,0,slang
+kuch bhi sahi na,0,slang
+ghatiya bilkul,0,slang
+time waste,0,slang
+sir dard,0,slang
+bilkul fail,0,slang
+bekaar bana diya,0,slang
+kaam ka na,0,slang
+yo system slow chal reya se,0,code-mixed
+output bilkul wrong aaya se,0,code-mixed
+yo feature ka result correct na se,0,code-mixed
+system ka response weak se,0,code-mixed
+yo app crash ho ri se bar bar,0,code-mixed
+performance low se,0,code-mixed
+system properly kaam na kare,0,code-mixed
+output mismatch aaya se,0,code-mixed
+feature properly kaam na kare,0,code-mixed
+system unstable se,0,code-mixed
+yo system ka output accurate se,1,code-mixed
+performance ghani badiya se,1,code-mixed
+yo feature ka result correct aaya se,1,code-mixed
+system ka response fast se,1,code-mixed
+yo app ka experience smooth se,1,code-mixed
+output bilkul clean se,1,code-mixed
+system properly chal reya se,1,code-mixed
+performance stable se,1,code-mixed
+result expected jaisa aaya se,1,code-mixed
+feature kaam badiya kare se,1,code-mixed
+bhai sahi me maja aa gya yo dekh ke,1,slang
+arre yo to badiya nikla bhai,1,slang
+yo kaam dekh ke dil khush ho gya sach me,1,slang
+mast sa lagya bhai yo,1,slang
+ekdum solid bana diya yo to,1,slang
+yo scene dekh ke hasi aa gyi,1,slang
+sahi me kaafi badiya kaam kiya se,1,slang
+yo to dil jeet liya bhai,1,slang
+bhai kaam to sahi kar diya isne,1,slang
+yo dekh ke lagya kuch acha banaya se,1,slang
+bhai bilkul bakwaas bana diya,0,slang
+yo kya bana diya re bhai,0,slang
+mann hi na laga dekh ke,0,slang
+faltu ka kaam lagya pura,0,slang
+yo to bilkul bekaar nikla,0,slang
+samajh hi na aaya kya kar diya,0,slang
+time waste ho gya pura,0,slang
+bhai sir dard ho gya dekh ke,0,slang
+yo kaam dekh ke irritate ho gya,0,slang
+bilkul mann na lagya isme,0,slang
+yo kaam theek tha par kuch khaas na laga,0,complex
+pehle sahi lagya par baad me interest khatam ho gya,0,complex
+start badhiya tha par end weak lagya,0,complex
+yo system chal to reya se par trust na bane,0,complex
+kaam ho gaya par satisfaction na mili,0,complex
+yo idea acha se par kaam me utna dikha na,0,complex
+dekhne me badiya se par use karne me dikkat aayi,0,complex
+yo kaam average sa lagya,0,complex
+thik tha par dubara use karne ka mann na kare,0,complex
+itna bhi bura na tha par acha bhi na laga,0,complex
+yo kaam badiya se sach me use karne layak,1,mixed
+bhai result dekh ke lagya kaam sahi hoya,1,mixed
+yo feature kaafi kaam ka lagya use me,1,mixed
+kaam simple se par kaafi useful nikla,1,mixed
+yo system thoda slow se par overall theek se,1,mixed
+use kar ke laga kaafi sahi decision tha,1,mixed
+yo app simple se par kaam mast kare se,1,mixed
+result utna bada na tha par sahi direction me se,1,mixed
+yo kaam dheere se par sahi chal reya se,1,mixed
+experience chhota tha par acha reya,1,mixed
+yo system ka response thoda weird sa lagya,0,mixed
+yo feature kabhi kaam kare kabhi na kare,0,mixed
+result dekh ke thoda doubt sa lagya,0,mixed
+yo app thoda ajeeb behave kare se,0,mixed
+kabhi sahi chal reya kabhi ruk jya se,0,mixed
+yo kaam predictable na lagya,0,mixed
+system ka output inconsistent lagya,0,mixed
+yo cheez samajhne me dikkat aayi,0,mixed
+kaam chal to reya par bharosa na bane,0,mixed
+yo thoda confusing sa lagya use me,0,mixed
+moj aa gyi bhai sach me,1,slang
+badiya se re bhai,1,slang
+ekdum zabardast,1,slang
+full tight kaam,1,slang
+jhakkas bana diya,1,slang
+yo kya faltu cheez bana di,0,slang
+bekaar ka scene tha,0,slang
+bilkul mann na bhara,0,slang
+kuch bhi samajh na aaya,0,slang
+yo to bekaar hi tha pura,0,slang
+yo kaam gazab chalya aaj,1,simple
+bhai yo feature kasuta kaam kare se,1,simple
+yo result dekh ke swadu feel aaya,1,mixed
+system ka output bilkul set se aaj,1,mixed
+yo kaam bina dikkat ke ho gya,1,simple
+bhai yo idea kaam ka nikla kasuta,1,slang
+yo project dheere tha par kaafi swadu nikla,1,complex
+system ka response stable raha aaj,1,code-mixed
+yo kaam ghana smooth chalya bina rukke,1,mixed
+"result expected jaisa aaya, kasuta kaam",1,slang
+yo kaam me dikkat pe dikkat aayi,0,simple
+system bar bar hang ho reya tha,0,code-mixed
+yo result thoda ghatiya sa lagya,0,mixed
+bhai yo feature kaam hi na kare theek te,0,slang
+yo kaam me kuch na kuch gadbad hoti rahi,0,mixed
+output aaya par bilkul swadu na lagya,0,complex
+yo system ka behavior ajeeb sa reya,0,mixed
+yo kaam ruk ruk ke chalya,0,simple
+bhai pura scene hi ghatiya ho gya,0,slang
+system ne baar baar error diya,0,code-mixed
+yo kaam kasuta tha par end me system hang ho gya,0,complex
+bhai shuru me gazab lagya par baad me dikkat aa gyi,0,complex
+yo feature swadu lagya par har baar kaam na kare,0,complex
+result kasuta dikha par actual me kaam ka na nikla,0,complex
+yo system stable lagya par ekdum crash ho gya,0,complex
+yo kaam gazab chalya par consistency na bani,0,complex
+bhai output swadu se par trust na ho re ispe,0,complex
+yo idea kasuta tha par implement me dikkat aa gyi,0,complex
+system sahi chal reya tha par achanak ruk gya,0,complex
+yo kaam mehnat se hoya par result ghatiya nikla,0,complex
+bhai yo system kasuta kaam kare se overall,1,slang
+yo kaam thoda slow se par output swadu se,1,complex
+result simple se par kaafi gazab feel diya,1,mixed
+yo feature dheere se par stable chal reya se,1,mixed
+system ka flow smooth na tha par kaam ho gya,1,mixed
+yo kaam me dikkat aayi par solve ho gyi,1,complex
+bhai last me kaam kasuta ho gya,1,slang
+yo result thoda simple se par sahi nikla,1,mixed
+system ka response late tha par correct tha,1,complex
+yo project chhota se par kaam ka nikla,1,mixed
+bhai yo kaam faddu nikla pura,0,slang
+yo feature bilkul nakli sa lagya,0,mixed
+system ka output inconsistent sa reya,0,code-mixed
+yo kaam ka result ajeeb sa lagya,0,mixed
+bhai itni dikkat aayi ki mann uth gya,0,slang
+yo project kaafi weak side pe lagya,0,mixed
+system kabhi chale kabhi band ho jya,0,code-mixed
+yo kaam dekh ke doubt sa ho gya,0,mixed
+output me clarity hi na thi,0,simple
+yo system reliable na lagya bilkul,0,mixed
+yo kaam bina dikkat ke complete ho gya aaj,1,simple
+system ne expected tarike se kaam kiya,1,code-mixed
+yo result clean aur samajhne layak se,1,simple
+bhai yo kaam me maza aa gya kasuta,1,slang
+yo feature ka output consistent aaya,1,code-mixed
+system ka behavior predictable raha aaj,1,mixed
+yo kaam stable chal reya tha pura time,1,mixed
+bhai yo kaam dekh ke satisfaction aa gya,1,slang
+result me clarity thi aur kaam ka tha,1,mixed
+yo system bina rukke chalya aaj,1,simple
+yo kaam dekh ke laga kuch missing se,0,mixed
+system ka flow samajh me na aaya,0,code-mixed
+yo feature use karte waqt dikkat hoti rahi,0,mixed
+bhai output dekh ke confuse ho gya,0,slang
+yo kaam ka result clear na lagya,0,simple
+system ka response unstable sa lagya,0,code-mixed
+yo project expected level pe na pahucha,0,mixed
+bhai itna effort ke baad bhi ghatiya nikla,0,slang
+yo kaam ka impact utna strong na se,0,mixed
+system pe bharosa karna mushkil lagya,0,mixed
+bhai aaj kushti me jo pakad lagayi wo kasuti thi,1,slang
+yo pehelwan shuru me slow lagya par baad me gazab nikla,1,complex
+match dekh ke lagya energy full thi bhai,1,slang
+yo kushti thodi lambi ho gyi par maza aa gya,1,mixed
+bhai aaj wala dangal swadu sa lagya dekhne me,1,slang
+pehelwan strong tha par strategy thodi weak lagyi,0,complex
+yo kushti me movement ajeeb si lag ri thi,0,mixed
+bhai fight me dum na lagya utna,0,slang
+yo match thoda faddu sa lagya honestly,0,slang
+shuru strong tha par end me pura scene gir gya,0,complex
+bhai batting dekh ke lagya kasuta form me se aaj,1,slang
+yo shot gazab timing pe maara usne,1,simple
+bowling thodi tight thi par control sahi reya,1,mixed
+match me pressure tha par handle kar liya sahi se,1,complex
+bhai fielding dekh ke maza aa gya sach me,1,slang
+yo innings dheere start hui par baad me swadu ho gyi,1,complex
+team ka coordination kasuta lagya aaj,1,mixed
+bhai bowling me dikkat aayi baar baar,0,slang
+yo shot selection ghatiya lagya pura,0,simple
+match me consistency na bani bilkul,0,mixed
+bhai pura game faddu sa ho gya last me,0,slang
+yo player pe bharosa na lagya aaj,0,mixed
+football match me pace gazab tha bhai,1,slang
+yo goal kasuta finish hoya last moment pe,1,simple
+team ka passing game swadu sa lagya,1,mixed
+defense strong tha par thodi dikkat bhi aayi,1,complex
+bhai match dekh ke feel aaya effort dala se,1,slang
+yo game me flow consistent reya pura time,1,mixed
+bhai defense ekdum ghatiya tha honestly,0,slang
+yo team ka coordination weak lagya aaj,0,mixed
+match me control hi na bana properly,0,complex
+bhai goal miss kar diya bilkul nakli sa shot tha,0,slang
+yo game dekh ke mann na bharya pura,0,mixed
+team ka attack predictable lagya pura,0,complex
+bhai yo gaana sun ke mood ekdum set ho gya,1,slang
+lyrics simple se par feel gazab diya,1,mixed
+yo music dheere dheere swadu lagne lag gya,1,complex
+beat thodi halki thi par overall acha lagya,1,mixed
+bhai awaaz me depth kasuti lag ri thi,1,slang
+yo gaana repeat pe sunne ka mann kare se,1,mixed
+bhai yo track thoda faddu sa lagya honestly,0,slang
+lyrics samajh me na aaye properly,0,simple
+music me clarity na thi utni,0,mixed
+yo gaana sun ke utna feel na aaya,0,mixed
+bhai awaaz me consistency missing lagyi,0,complex
+yo track thoda boring sa lagya end tak,0,complex
+bhai movie ka start kasuta tha par end weak lagya,0,complex
+yo film dekh ke laga story gazab likhi se,1,mixed
+acting strong thi par screenplay me dikkat aayi,0,complex
+bhai hero ka role swadu lagya pura,1,slang
+yo movie simple se par impact acha dala,1,mixed
+bhai direction me effort dikha clearly,1,slang
+yo film ka flow thoda ajeeb sa lagya,0,mixed
+bhai climax pura faddu sa lagya honestly,0,slang
+story me depth na thi utni,0,mixed
+yo movie dekh ke mann utna engage na hoya,0,complex
+bhai yo kaam aaj kasuta chal gya bina dikkat,1,slang
+system slow tha par output swadu nikla,1,complex
+result dheere aaya par sahi tha finally,1,mixed
+yo kaam mehnat se hoya aur feel aaya,1,mixed
+bhai aaj ka output dekh ke satisfaction mil gya,1,slang
+yo process thoda lamba tha par kaam ho gya,1,complex
+bhai kaam me itni dikkat aayi ki mann uth gya,0,slang
+system baar baar hang ho reya tha,0,code-mixed
+output clear na tha aur confuse kar diya,0,mixed
+yo kaam dekh ke lagya kuch gadbad se,0,mixed
+bhai pura flow hi toot gya beech me,0,slang
+system ka behavior unstable sa lagya,0,code-mixed
+pehle dekh ke laga theek-thaak se par baad me utna kaam ka na lagya,0,complex
+yo kaam ghana bura na se par dil te pasand bhi na aaya,0,mixed
+manne bera na kyun par yo cheez thodi ajeeb si lag ri se,0,mixed
+kaam ho to gya par mann me satisfaction na bani,0,complex
+shuru me uljhan si lagi par dheere dheere samajh aa gya,1,complex
+yo cheez pehle simple lagyi thi par andar se thodi complicated nikli,0,complex
+itna bhi kharab na se par dubara karan ka mann na kare,0,mixed
+manne laga tha kuch khas hoga par bas theek-thaak hi nikla,0,mixed
+yo kaam dheere chalya par ant me result sahi aaya,1,complex
+pehle doubt sa reya par baad me confidence aa gya kaam pe,1,complex
+yo system kabhi sahi kabhi ulta react kare se,0,mixed
+output theek aaya par process me ghani uljhan rahi,0,complex
+result dekh ke laga kuch missing sa reh gya,0,mixed
+yo cheez use karte waqt clarity pura time na bani,0,complex
+system samajh me aa gya par use karna utna easy na lagya,0,complex
+yo kaam chhota sa se par impact ghana acha de gya,1,mixed
+pehle ajeeb lagya par baad me maza aaya use me,1,complex
+kaam thoda confusing reya par end me smooth ho gya,1,complex
+yo cheez ghani simple se par kaafi kaam ki nikli,1,mixed
+system dheere samajh aaya par baad me reliable lagya,1,complex
+bhai isme kuch alag sa feel aaya jo pehle na dekha,1,slang
+yo dekh ke lagya mehnat to kari se isme,1,slang
+mann ne turant accept na kiya par dheere dheere sahi lagya,1,complex
+yo kaam ek baar me samajh na aaya par try karte karte aa gya,1,complex
+pehle lagya bekaar se par use kar ke thoda better feel aaya,1,complex
+yo kaam utna smooth na tha jitna dikh reya tha,0,complex
+andar se utna strong na lagya jitna upar se dikha,0,mixed
+yo system dekh ke bharosa turant na bana,0,mixed
+kaam chal reya se par confidence na aa re pura,0,mixed
+yo cheez thodi unpredictable si lag ri se,0,mixed
+pehle laga fast se par baad me ruk ruk ke chalya,0,complex
+yo process simple dikhya par actual me tricky nikla,0,complex
+result sahi aaya par journey me dikkat ghani rahi,0,complex
+kaam karte karte interest develop ho gya dheere dheere,1,complex
+yo cheez dheere samajh aayi par kaafi useful se,1,mixed
+mann me pehle doubt reya par ab sahi lag reya se,1,mixed
+yo kaam utna engaging na lagya jitna socha tha,0,complex
+dekhne me sahi se par use karte waqt utna maza na aaya,0,complex
+yo cheez ghani useful se par sabke kaam ki na se,1,mixed
+itna bhi bura na se par strong bhi na lagya,0,mixed
+pehli nazar me samajh na aaya par dhyan se dekha to kaam ka lagya,1,complex
+kaam poora ho gya par mann me clarity utni bani na,0,complex
+yo cheez use karte waqt bar bar sochna padta tha,0,complex
+result sahi tha par us tak pahunchne ka tareeka uljha hua lagya,0,complex
+shuru me doubt tha par aakhir me bharosa ban gya,1,complex
+andar se utna strong na lagya jitna upar se dikh reya tha,0,mixed
+yo process dheere samajh aaya par fir smooth lagne lag gya,1,complex
+kaam chal gya par jo expectation thi wo puri na hoyi,0,mixed
+pehle lagya simple se par baad me complexity samajh aayi,0,complex
+yo cheez ek baar me samajh na aayi par baad me clear ho gyi,1,complex
+kaam thoda uljha hua tha par end me theek se set ho gya,1,complex
+mann me confusion rahi par result dekh ke thoda satisfaction aaya,1,mixed
+yo system kabhi sahi react kare kabhi bina wajah badal jya,0,mixed
+kaam me consistency na rahi par final output acceptable tha,1,complex
+pehle reject kar diya par baad me samajh aaya galat socha tha,1,complex
+yo kaam dekh ke laga kuch missing sa reh gya andar,0,mixed
+itna bhi bura na tha par dil se pasand bhi na aaya,0,mixed
+yo cheez dheere dheere apni value dikha gyi,1,mixed
+pehle lagya time waste se par baad me useful lagne lag gya,1,complex
+kaam ho gya par usme woh baat na thi jo honi chahiye thi,0,mixed
+yo process samajhne me dikkat rahi par kaam rukya na,1,complex
+result aaya par uska impact utna gehra na lagya,0,mixed
+yo cheez dekhne me normal si thi par kaam me strong nikli,1,mixed
+kaam karte waqt lagya direction thodi galat pakdi se,0,complex
+pehle lagya thik se par baad me interest khatam ho gya,0,complex
+yo system dheere react kare par galat bhi na kare,1,mixed
+mann ne turant accept na kiya par baad me samajh aaya sahi se,1,complex
+kaam poora hua par andar se lagya aur sudhar ho sakta tha,0,mixed
+yo cheez ek baar me clear na hui par dheere dheere fit baith gyi,1,complex
+kaam thoda rough sa lagya par final outcome sahi nikla,1,complex
+pehle lagya bekaar direction me ja reya se par baad me sudhar aaya,1,complex
+yo kaam expected line pe na chalya aur beech me uljhan badh gyi,0,complex
+kaam karte waqt lagya control pura haath me na se,0,mixed
+result dekh ke thoda sukoon mila par pura santosh na hoya,0,mixed
+yo cheez dheere dheere samajh aayi aur tab use karna aasaan lagya,1,complex
+pehle impression strong na tha par baad me better lagne lag gya,1,complex
+yo kaam utna stable na lagya jitna zaroori tha,0,mixed
+kaam me rukawat aayi par process tootya na,1,complex
+yo system predictable na lagya par galat bhi kam hi hua,1,mixed
+pehle confuse kar diya par baad me sense ban gya pura,1,complex
+chora pura din hawa me uddta rahya par kaam ek dhang ka na karya,0,slang
+dada ke muh te nikli baat seedhi dil me utar gyi,1,mixed
+bina soche ghus to gya kaam me par baad me pachhtana padgya,0,complex
+is baar mela pehle jaisa rang jama na paya,0,mixed
+raat bhar jag ke jo tayyari kari thi uska fal mil gya,1,complex
+uski baat me mithaas kam aur dikhawa jyada lagya,0,mixed
+ghar aate hi maa ke haath ki roti ne mood badal diya,1,slang
+padhai te jyada tension attendance ki chal ri thi,0,code-mixed
+beech baat me usne aisi ulti boli maari ke sab chup ho ge,0,slang
+gaam ke chore ne aakhri minute me izzat bacha li team ki,1,slang
+upar te hasta rahya par andar te toot rya tha banda,0,complex
+dhoop ghani thi fer bhi kheton me jaan bani rahi,1,mixed
+baat chhoti si thi par gaam bhar me hawa ban gyi,0,mixed
+uski awaaz me yo kasak si thi jo seedha lagg gyi,1,slang
+pehle sabne mazaak banaya fer usne kaam te jawaab diya,1,complex
+yo naya phone haath me bhaari lagya par kaam me dheela nikla,0,complex
+bus me pura safar khade khade kaatna padgya,0,simple
+us din ka match yaad karke aaj bhi rongte khade ho jyan se,1,slang
+bina matlab ki akad dikha ke apni value ghata li usne,0,mixed
+master ji ki daant buri lagi par kaam aa gyi baad me,1,complex
+gaon ki chaupal pe baithi baat me alag e garamjoshi se,1,slang
+itni der buffering hoti rahi ke dekhne ka mann uth gya,0,code-mixed
+andar hi andar us baat ka bojh sa dabta gaya,0,complex
+pehli baar us gaane ne itna chain diya sunke,1,mixed
+chori ki acting me jaan thi par kahani dhili padgri thi,0,complex
+bina practice ke bhi usne ground pe dhamal kar diya,1,slang
+yo kaam dekh ke lagya kisi ne aadhe mann te banaya se,0,mixed
+gharwale khush the to thakan apne aap utar gyi,1,mixed
+lecture me theory ghani thi par example bilkul zinda the,1,code-mixed
+khali shor machan te koi cheez badiya na ho jya kare,0,slang
+baarish aayi to sukhi mitti me jaan si aa gyi,1,mixed
+uski hasi asli kam aur majboori jyada lagri thi,0,complex
+stadium me baithe baithe gala baith gya chillate chillate,1,slang
+kaam poora to ho gya par tareeka bilkul ulta tha,0,complex
+raat ne terrace pe baithi hawa ne dimag halka kar diya,1,mixed
+yo app update ke baad aur uljha sa lagne lag gya,0,code-mixed
+uski bowling me raftaar kam thi par soch tez thi,1,complex
+beech me light chali gyi aur pura mahol baith gya,0,mixed
+khet me pehli hari patti dekh ke mann khil gya,1,mixed
+yo speaker awaaz te jyada khadbad karta rahya,0,simple
+andar te usne haar manne kabhi maani e na,1,complex
+film me comedy thi par hasi jabarjasti ki lagri thi,0,mixed
+chora shaant dikhe se par dimag ghana tej chalave se,1,slang
+system login to ho rya tha par data khul na rya tha,0,code-mixed
+dhoore te dekhya to sab theek lagya paas aake asli haal dikha,0,complex
+gaam ki galiyon me shaam ne alag e ronak jag jya se,1,slang
+bhook itni thi ke saadha khana bhi swad ban gya,1,mixed
+match me haar ke baad dressing room sann padgya tha,0,mixed
+uski baat me dum tha isliye sab chupchaap sunte reh ge,1,mixed
+project ka idea naya tha par execution dheela reh gya,0,code-mixed
+ghar te door reh ke bhi usne himmat banaye rakhi,1,complex
+baar baar notification aake pura focus tod re the,0,code-mixed
+yo gaana sunte hi purane din aankhan ke aage aa ge,1,mixed
+pehle lagya banda halka se par baad me asli aukaat dikhayi usne,1,complex
+bina wajah ki behas ne pura mood kharab kar diya,0,mixed
+tractor dal-dal me fasgya par chora himmat te kaam leta rahya,1,complex
+us movie ka suspense end tak pakad banaye rakha,1,mixed
+andar te us din ajeeb si ghutan bani rahi,0,complex
+class me padhai kam aur bakbak jyada chalri thi,0,code-mixed
+ground pe utarte hi uske chehre pe alag chamak aa gyi,1,slang
+yo feature dekhne me modern se par kaam me adhoora nikla,0,code-mixed
+gaam ke buzurg ki ek baat ne poori soch badal di,1,mixed
+itna sannata tha ke apni saans bhi tez lagri thi,0,complex
+speaker ne topic itna asaan kar diya ke darr hi khatam ho gya,1,code-mixed
+uski awaaz me mitti ki khushboo si mehsoos hoyi,1,slang
+team pressure me bikhar gyi aur match haath te nikal gya,0,complex
+ghar ki purani tasveer dekh ke mann bhar aaya,0,mixed
+yo software update aadha kaam sudhare aur aadha bigaad gya,0,code-mixed
+uski mehnat dheere dheere rang dikhavan lagi,1,complex
+bhari bheed me bhi usne apni pehchan bana li,1,mixed
+pehli baar kisi gaane ne itna andar tak asar karya,1,mixed
+andar te sab uljha padha tha par muh pe chup bani rahi,0,complex
+college fest me is baar sach me jaan si thi,1,code-mixed
+yo kaam dekh ke lagya jaldi me nipta diya gya se,0,mixed
+dada ki purani kahaniyan sunke raat kad ki beet gyi pata e na chala,1,slang
+us player ne akela match ghuma diya dusri side,1,slang
+network ka scene itna kharab tha ke class join e na hoi,0,code-mixed
+chora pura din hawa me uddta rahya par kaam ek dhang ka na karya,0,slang
+dada ke muh te nikli baat seedhi dil me utar gyi,1,mixed
+bina soche ghus to gya kaam me par baad me pachhtana padgya,0,complex
+is baar mela pehle jaisa rang jama na paya,0,mixed
+raat bhar jag ke jo tayyari kari thi uska fal mil gya,1,complex
+uski baat me mithaas kam aur dikhawa jyada lagya,0,mixed
+ghar aate hi maa ke haath ki roti ne mood badal diya,1,slang
+padhai te jyada tension attendance ki chal ri thi,0,code-mixed
+beech baat me usne aisi ulti boli maari ke sab chup ho ge,0,slang
+gaam ke chore ne aakhri minute me izzat bacha li team ki,1,slang
+upar te hasta rahya par andar te toot rya tha banda,0,complex
+dhoop ghani thi fer bhi kheton me jaan bani rahi,1,mixed
+baat chhoti si thi par gaam bhar me hawa ban gyi,0,mixed
+uski awaaz me yo kasak si thi jo seedha lagg gyi,1,slang
+pehle sabne mazaak banaya fer usne kaam te jawaab diya,1,complex
+yo naya phone haath me bhaari lagya par kaam me dheela nikla,0,complex
+bus me pura safar khade khade kaatna padgya,0,simple
+us din ka match yaad karke aaj bhi rongte khade ho jyan se,1,slang
+bina matlab ki akad dikha ke apni value ghata li usne,0,mixed
+master ji ki daant buri lagi par kaam aa gyi baad me,1,complex
+gaon ki chaupal pe baithi baat me alag e garamjoshi se,1,slang
+itni der buffering hoti rahi ke dekhne ka mann uth gya,0,code-mixed
+andar hi andar us baat ka bojh sa dabta gaya,0,complex
+pehli baar us gaane ne itna chain diya sunke,1,mixed
+chori ki acting me jaan thi par kahani dhili padgri thi,0,complex
+bina practice ke bhi usne ground pe dhamal kar diya,1,slang
+yo kaam dekh ke lagya kisi ne aadhe mann te banaya se,0,mixed
+gharwale khush the to thakan apne aap utar gyi,1,mixed
+lecture me theory ghani thi par example bilkul zinda the,1,code-mixed
+khali shor machan te koi cheez badiya na ho jya kare,0,slang
+baarish aayi to sukhi mitti me jaan si aa gyi,1,mixed
+uski hasi asli kam aur majboori jyada lagri thi,0,complex
+stadium me baithe baithe gala baith gya chillate chillate,1,slang
+kaam poora to ho gya par tareeka bilkul ulta tha,0,complex
+raat ne terrace pe baithi hawa ne dimag halka kar diya,1,mixed
+yo app update ke baad aur uljha sa lagne lag gya,0,code-mixed
+uski bowling me raftaar kam thi par soch tez thi,1,complex
+beech me light chali gyi aur pura mahol baith gya,0,mixed
+khet me pehli hari patti dekh ke mann khil gya,1,mixed
+yo speaker awaaz te jyada khadbad karta rahya,0,simple
+andar te usne haar manne kabhi maani e na,1,complex
+film me comedy thi par hasi jabarjasti ki lagri thi,0,mixed
+chora shaant dikhe se par dimag ghana tej chalave se,1,slang
+system login to ho rya tha par data khul na rya tha,0,code-mixed
+dhoore te dekhya to sab theek lagya paas aake asli haal dikha,0,complex
+gaam ki galiyon me shaam ne alag e ronak jag jya se,1,slang
+bhook itni thi ke saadha khana bhi swad ban gya,1,mixed
+match me haar ke baad dressing room sann padgya tha,0,mixed
+uski baat me dum tha isliye sab chupchaap sunte reh ge,1,mixed
+project ka idea naya tha par execution dheela reh gya,0,code-mixed
+ghar te door reh ke bhi usne himmat banaye rakhi,1,complex
+baar baar notification aake pura focus tod re the,0,code-mixed
+yo gaana sunte hi purane din aankhan ke aage aa ge,1,mixed
+pehle lagya banda halka se par baad me asli aukaat dikhayi usne,1,complex
+bina wajah ki behas ne pura mood kharab kar diya,0,mixed
+tractor dal-dal me fasgya par chora himmat te kaam leta rahya,1,complex
+us movie ka suspense end tak pakad banaye rakha,1,mixed
+andar te us din ajeeb si ghutan bani rahi,0,complex
+class me padhai kam aur bakbak jyada chalri thi,0,code-mixed
+ground pe utarte hi uske chehre pe alag chamak aa gyi,1,slang
+yo feature dekhne me modern se par kaam me adhoora nikla,0,code-mixed
+gaam ke buzurg ki ek baat ne poori soch badal di,1,mixed
+itna sannata tha ke apni saans bhi tez lagri thi,0,complex
+speaker ne topic itna asaan kar diya ke darr hi khatam ho gya,1,code-mixed
+uski awaaz me mitti ki khushboo si mehsoos hoyi,1,slang
+team pressure me bikhar gyi aur match haath te nikal gya,0,complex
+ghar ki purani tasveer dekh ke mann bhar aaya,0,mixed
+yo software update aadha kaam sudhare aur aadha bigaad gya,0,code-mixed
+uski mehnat dheere dheere rang dikhavan lagi,1,complex
+bhari bheed me bhi usne apni pehchan bana li,1,mixed
+pehli baar kisi gaane ne itna andar tak asar karya,1,mixed
+andar te sab uljha padha tha par muh pe chup bani rahi,0,complex
+college fest me is baar sach me jaan si thi,1,code-mixed
+yo kaam dekh ke lagya jaldi me nipta diya gya se,0,mixed
+dada ki purani kahaniyan sunke raat kad ki beet gyi pata e na chala,1,slang
+us player ne akela match ghuma diya dusri side,1,slang
+network ka scene itna kharab tha ke class join e na hoi,0,code-mixed

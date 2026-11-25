@@ -1,0 +1,66 @@
+id,sentence,expected_sentiment,category,phenomenon,pair_id,rationale,review_status
+CH01,yo kaam badiya se,1,simple,negation_minimal_pair,P01,Positive baseline asserting good work,verified
+CH02,yo kaam badiya konya,0,simple,negation_minimal_pair,P01,Negation marker konya directly inverts positive polarity,verified
+CH03,yo app slow se par kaam sahi kare se,1,complex,contrastive_sentiment,P02,Contrastive 'par' where final resolution clause is positive,verified
+CH04,yo app sahi se par baar baar crash ho se,0,complex,contrastive_sentiment,P02,Contrastive 'par' where final resolution clause is negative,verified
+CH05,yo chora kasuta khel reya se,1,slang,regional_slang,P03,Regional slang term 'kasuta' carrying strongly positive sentiment,verified
+CH06,yo chora kasuta bekaar khel reya se,0,slang,regional_slang,P03,Positive slang 'kasuta' used as intensifier for negative 'bekaar',verified
+CH07,yo phone thik se,1,simple,spelling_variation,P04,Spelling variation 'thik' representing positive theek,verified
+CH08,yo phone theek se,1,simple,spelling_variation,P04,Standard normalized spelling 'theek',verified
+CH09,yo phone thikk se,1,simple,spelling_variation,P04,Elongated informal spelling 'thikk',verified
+CH10,yo khana badhiya lagya,1,simple,spelling_variation,P05,Variant spelling badhiya,verified
+CH11,yo khana badiya lagya,1,simple,spelling_variation,P05,Standard normalized badiya,verified
+CH12,bhai ghnaa maza aa gya,1,slang,spelling_variation,P06,Informal variant ghnaa,verified
+CH13,bhai ghana maza aa gya,1,slang,spelling_variation,P06,Normalized variant ghana,verified
+CH14,koni re bhai aisi koi dikkat na se,1,slang,negation_double_positive,P07,Haryanvi double negation conveying no problem / reassurance,verified
+CH15,bhai dikkat ghani se kaam na banya,0,slang,negation_plain_negative,P07,High difficulty and failure,verified
+CH16,project me koi dikkat koni sab smoothly chalya,1,code-mixed,contextual_negation,P08,Negation of negative word 'dikkat' results in positive sentiment,verified
+CH17,project me har step pe dikkat aayi,0,code-mixed,contextual_negation,P08,Unnegated problem assertion,verified
+CH18,match haar ge par chore laadle ladke khele,1,slang,contrastive_sentiment,P09,Defeat countered by proud regional effort,verified
+CH19,match jeet ge par game me bilkul maza na aaya,0,slang,contrastive_sentiment,P09,Victory negated by complete lack of enjoyment,verified
+CH20,yo feature bilkul bekaar se,0,simple,slang_intensifier,P10,Strong negative slang assessment,verified
+CH21,yo feature ekdum swadu se bhai,1,slang,slang_intensifier,P10,Strong positive regional slang 'swadu',verified
+CH22,shuru me lagya tha fail ho jawega par result top aaya,1,complex,contrastive_sentiment,P11,Initial apprehension resolved with top result,verified
+CH23,shuru me badiya lagya par baad me sir dard ban gya,0,complex,contrastive_sentiment,P11,Initial promise deteriorated to headache,verified
+CH24,service fast se par staff ka behavior dheela se,0,complex,contrastive_sentiment,P12,Service positive but staff lethargic leading to net negative,verified
+CH25,staff thoda slow tha par kaam top kar diya,1,complex,contrastive_sentiment,P12,Slow staff compensated by top outcome,verified
+CH26,bina kisi dikkat ke admission ho gya,1,simple,contextual_negation,P13,Negated trouble yielding positive experience,verified
+CH27,admission me itna dhakka khaya ke bura haal ho gya,0,slang,implicit_sentiment,P13,Metaphorical regional distress expression,verified
+CH28,yo product paisa vasool se re,1,slang,slang_positive,P14,Colloquial value-for-money endorsement,verified
+CH29,yo product paise ki barbadi se bilkul,0,slang,slang_negative,P14,Colloquial waste of money,verified
+CH30,bhaiyo ne stage pe aag laa di,1,slang,metaphorical_positive,P15,Idiomatic regional praise meaning performed brilliantly,verified
+CH31,unhone poora karyakram ka naas pit diya,0,slang,metaphorical_negative,P15,Idiomatic regional critique meaning completely ruined it,verified
+CH32,UI is looking clean and bilkul smooth chal raha se,1,code-mixed,code_mixed_positive,P16,English technical terms with Haryanvi syntax,verified
+CH33,system freeze ho gya aur data save bhi na hoya,0,code-mixed,code_mixed_negative,P16,Technical crash with loss of data,verified
+CH34,yo master ji ka padhana kasuta asar kar gya,1,mixed,dialectal_positive,P17,Positive educational impact,verified
+CH35,yo lecture bilkul sir ke upar te gya,0,mixed,metaphorical_negative,P17,Idiomatic incomprehensibility,verified
+CH36,galti ho gyi thi par unhone pyaar te sambhal li,1,complex,contrastive_sentiment,P18,Mistake resolved with care and warmth,verified
+CH37,galti unki thi par dosh hum pe daal diya,0,complex,contrastive_sentiment,P18,Unfair blame shift,verified
+CH38,gaadi purani se par engine solid se,1,complex,contrastive_sentiment,P19,Old vehicle contrasted by solid mechanical health,verified
+CH39,gaadi nayi se par engine me aawaz aave se,0,complex,contrastive_sentiment,P19,New car marred by engine noise,verified
+CH40,koi shikayat koni bhai sab theek thak se,1,simple,contextual_negation,P20,Negated complaint meaning fully satisfied,verified
+CH41,itni shikayat kardi par kisine na suni,0,complex,implicit_negative,P20,Unresolved repeated grievances,verified
+CH42,mouj kardi yaar te badiya kaam karya,1,slang,slang_positive,P21,Popular regional celebration phrase,verified
+CH43,dimaag ki dahi kardi faltu baatan me,0,slang,slang_negative,P21,Regional frustration expression,verified
+CH44,mehnat rang laayi aur selection pakka ho gya,1,mixed,implicit_positive,P22,Reward of hard work,verified
+CH45,poori mehnat bekaar gyi haath kuch na lagya,0,mixed,implicit_negative,P22,Fruitless struggle,verified
+CH46,yo scene dekh ke rooh khush ho gyi,1,slang,emotional_positive,P23,Deep soul-level happiness idiom,verified
+CH47,yo scene dekh ke khoon khaul gya mera,0,slang,emotional_negative,P23,Severe outrage idiom,verified
+CH48,delivery time pe aayi packaging bhi tagdi thi,1,code-mixed,commercial_positive,P24,Prompt delivery with strong packaging,verified
+CH49,delivery late aayi aur dabba bhi tootta hoya tha,0,code-mixed,commercial_negative,P24,Delayed delivery and broken package,verified
+CH50,yo gaana sunke man halka ho gya,1,mixed,comfort_positive,P25,Emotional relief from music,verified
+CH51,yo shor sunke man bechain ho gya,0,mixed,discomfort_negative,P25,Emotional discomfort from noise,verified
+CH52,bina bataye surprise party de ke dil jeet liya,1,mixed,surprise_positive,P26,Touching surprise effort,verified
+CH53,bina bataye plan cancel karke mood kharab kar diya,0,mixed,surprise_negative,P26,Abrupt cancellation ruining mood,verified
+CH54,bhai update mast se naye features jud ge,1,code-mixed,tech_positive,P27,Appreciation of software update,verified
+CH55,bhai update ke baad battery ghani jaldi drain ho se,0,code-mixed,tech_negative,P27,Negative consequence of app update,verified
+CH56,sabne saath diya to mushkil aasan ho gyi,1,complex,contrastive_positive,P28,Solidarity overcoming difficulty,verified
+CH57,aakhri time pe sabne haath kheench liya,0,complex,contrastive_negative,P28,Betrayal at critical juncture,verified
+CH58,yo hotel ka khana lajawab tha maza aa gya,1,simple,food_positive,P29,High culinary praise,verified
+CH59,yo hotel ka khana basi tha ulti aane lagi,0,simple,food_negative,P29,Spoiled food causing nausea,verified
+CH60,bhai bilkul tension na leyo sab sambhal lewange,1,slang,reassurance_positive,P30,Friendly regional reassurance,verified
+CH61,poora kaam ulajh gya ab koi rasta na dikh reya,0,slang,hopeless_negative,P30,Despair over complicated problem,verified
+CH62,camera quality jabar se photo khubsurat aayi,1,code-mixed,tech_positive,P31,High camera praise,verified
+CH63,camera blur photo khinche se bekaar sensor se,0,code-mixed,tech_negative,P31,Poor camera assessment,verified
+CH64,khet me barish te fasal lahlaha uthi,1,mixed,agrarian_positive,P32,Agrarian prosperity after rain,verified
+CH65,ole padne te sari fasal barbad ho gyi,0,mixed,agrarian_negative,P32,Agrarian devastation from hailstorm,verified

@@ -1,0 +1,83 @@
+sentence,label,type
+yo goal kasuta finish hoya last moment pe,1,simple
+kaam karte waqt lagya direction thodi galat pakdi se,0,complex
+"yo project best se, kaafi smooth chal raha hai aur overall experience theek tha",1,complex
+experience chhota tha par acha reya,1,mixed
+yo kaam dekh ke lagya kisi ne aadhe mann te banaya se,0,mixed
+pehli baar kisi gaane ne itna andar tak asar karya,1,mixed
+bhai direction me effort dikha clearly,1,slang
+result dekh ke laga kuch missing sa reh gya,0,mixed
+bhai bilkul bakwaas bana diya,0,slang
+yo cheez ghani useful se par sabke kaam ki na se,1,mixed
+"yo design zabardast se, bahut badiya hai aur overall experience theek tha",1,complex
+us player ne akela match ghuma diya dusri side,1,slang
+yo system reliable na lagya bilkul,0,mixed
+result dheere aaya par sahi tha finally,1,mixed
+chora pura din hawa me uddta rahya par kaam ek dhang ka na karya,0,slang
+output theek aaya par process me ghani uljhan rahi,0,complex
+yo kaam badhiya se par speed ghani kam se,0,complex
+"ye idea worst se, kaam nahi kar raha",0,simple
+output kaafi clean hai,1,code-mixed
+kaam karte waqt lagya control pura haath me na se,0,mixed
+yo kaam bina dikkat ke complete ho gya aaj,1,simple
+bekaar ka scene tha,0,slang
+gaam ki galiyon me shaam ne alag e ronak jag jya se,1,slang
+"yo app badiya se, bahut badiya hai aur overall experience theek tha",1,complex
+yo feature dheere se par stable chal reya se,1,mixed
+"ye feature clean se, kaafi smooth chal raha hai",1,simple
+match me control hi na bana properly,0,complex
+yo feature use karte waqt dikkat hoti rahi,0,mixed
+output mismatch aaya se,0,code-mixed
+beech baat me usne aisi ulti boli maari ke sab chup ho ge,0,slang
+gaam ke buzurg ki ek baat ne poori soch badal di,1,mixed
+bhai pura scene hi ghatiya ho gya,0,slang
+tractor dal-dal me fasgya par chora himmat te kaam leta rahya,1,complex
+yo gaana sun ke maza aa gya,1,simple
+college fest me is baar sach me jaan si thi,1,code-mixed
+master ji ki daant buri lagi par kaam aa gyi baad me,1,complex
+"ye feature perfect se, dil khush kar diya",1,simple
+bhai movie ka start kasuta tha par end weak lagya,0,complex
+kaam chal gya par jo expectation thi wo puri na hoyi,0,mixed
+uski awaaz me mitti ki khushboo si mehsoos hoyi,1,slang
+network ka scene itna kharab tha ke class join e na hoi,0,code-mixed
+beech me light chali gyi aur pura mahol baith gya,0,mixed
+"yo project smooth se, kaafi smooth chal raha hai aur overall experience theek tha",1,complex
+gaam ke chore ne aakhri minute me izzat bacha li team ki,1,slang
+yo dekh ke lagya mehnat to kari se isme,1,slang
+yo thoda confusing sa lagya use me,0,mixed
+yo kaam dekh ke irritate ho gya,0,slang
+bhai goal miss kar diya bilkul nakli sa shot tha,0,slang
+"yo project sahi se, full entertaining tha",1,simple
+"yo result accha se, dil khush kar diya aur overall experience theek tha",1,complex
+bhai yo feature kasuta kaam kare se,1,simple
+"ye feature mast se, ekdum mast lagya aur overall experience theek tha",1,complex
+yo plan sahi se par execution weak se,0,complex
+time waste,0,slang
+yo kaam dhang te na hoya,0,mixed
+pehle doubt sa reya par baad me confidence aa gya kaam pe,1,complex
+"ye idea solid se, bahut badiya hai aur overall experience theek tha",1,complex
+"ye movie worst se, bahut slow chal raha hai",0,simple
+bilkul fail,0,slang
+yo result samajh na aaya,0,simple
+"ye feature problematic se, time waste hai",0,simple
+bina practice ke bhi usne ground pe dhamal kar diya,1,slang
+yo kushti thodi lambi ho gyi par maza aa gya,1,mixed
+itna bhi bura na tha par acha bhi na laga,0,complex
+yo gaana mast se par thoda boring lagya,0,complex
+"ye movie buggy se, time waste hai",0,simple
+"yo phone smooth se, full entertaining tha aur overall experience theek tha",1,complex
+defense strong tha par thodi dikkat bhi aayi,1,complex
+yo to bilkul bekaar nikla,0,slang
+pehle lagya bekaar se par use kar ke thoda better feel aaya,1,complex
+"ye idea faltu se, time waste hai aur overall experience theek tha",0,complex
+manne laga tha kuch khas hoga par bas theek-thaak hi nikla,0,mixed
+yo design ghatiya se,0,simple
+yo game dekh ke mann na bharya pura,0,mixed
+yo system theek te kaam na kar reya,0,simple
+khet me pehli hari patti dekh ke mann khil gya,1,mixed
+system ne expected tarike se kaam kiya,1,code-mixed
+"ye idea useless se, bilkul bekaar hai aur overall experience theek tha",0,complex
+yo kaam dekh ke laga kuch missing sa reh gya andar,0,mixed
+kaam ka na,0,slang
+team pressure me bikhar gyi aur match haath te nikal gya,0,complex
+is baar mela pehle jaisa rang jama na paya,0,mixed

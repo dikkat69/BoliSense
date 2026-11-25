@@ -1,0 +1,83 @@
+sentence,label,type
+result sahi aaya par journey me dikkat ghani rahi,0,complex
+sir dard,0,slang
+yo team ka coordination weak lagya aaj,0,mixed
+yo design dekh ke dil khush ho gya,1,simple
+yo kaam ka result clear na lagya,0,simple
+yo track thoda boring sa lagya end tak,0,complex
+"yo phone ghatiya se, bilkul bekaar hai",0,simple
+yo app ka experience kharab reya,0,mixed
+yo feature kabhi kaam kare kabhi na kare,0,mixed
+bhai match dekh ke feel aaya effort dala se,1,slang
+system slow tha par output swadu nikla,1,complex
+yo film ka flow thoda ajeeb sa lagya,0,mixed
+"ye feature accha se, full entertaining tha aur overall experience theek tha",1,complex
+yo result dekh ke swadu feel aaya,1,mixed
+bhai aaj kushti me jo pakad lagayi wo kasuti thi,1,slang
+bhai output swadu se par trust na ho re ispe,0,complex
+bhai kaam me itni dikkat aayi ki mann uth gya,0,slang
+app baar baar crash ho raha hai,0,code-mixed
+yo kaam ka result ajeeb sa lagya,0,mixed
+yo system theek se par bar bar ruk jya se,0,complex
+system dheere chal reya se,0,simple
+yo cheez use karte waqt bar bar sochna padta tha,0,complex
+faltu ka kaam lagya pura,0,slang
+yo feature ek number kaam kare se,1,mixed
+pehle reject kar diya par baad me samajh aaya galat socha tha,1,complex
+yo kaam mehnat se hoya aur feel aaya,1,mixed
+yo cheez dheere dheere apni value dikha gyi,1,mixed
+kaam chal to reya par bharosa na bane,0,mixed
+yo system ka behavior unstable se,0,mixed
+yo kaam theek te hoya na,0,simple
+yo plan sahi se chal reya se,1,simple
+result sahi aaya par process mushkil reya,0,complex
+"yo result solid se, full entertaining tha",1,simple
+bhai itni dikkat aayi ki mann uth gya,0,slang
+bhai defense ekdum ghatiya tha honestly,0,slang
+badiya se re bhai,1,slang
+result aaya par uska impact utna gehra na lagya,0,mixed
+pehle impression strong na tha par baad me better lagne lag gya,1,complex
+project ka idea naya tha par execution dheela reh gya,0,code-mixed
+"result expected jaisa aaya, kasuta kaam",1,slang
+yo kaam ghana sahi lagya manne,1,mixed
+system kabhi chale kabhi band ho jya,0,code-mixed
+kaam karte karte interest develop ho gya dheere dheere,1,complex
+yo system bilkul theek se chal reya,1,simple
+yo kaam gazab chalya aaj,1,simple
+bekaar kaam,0,slang
+yo to dil jeet liya bhai,1,slang
+jhakkas bana diya,1,slang
+yo cheez samajhne me dikkat aayi,0,mixed
+bilkul mann na bhara,0,slang
+andar hi andar us baat ka bojh sa dabta gaya,0,complex
+yo kaam chhota sa se par impact ghana acha de gya,1,mixed
+yo kaam bina dikkat ke ho gya,1,simple
+yo process samajhne me dikkat rahi par kaam rukya na,1,complex
+yo kya bana diya re bhai,0,slang
+mann ne turant accept na kiya par baad me samajh aaya sahi se,1,complex
+yo feature bera bera kaam kare se,1,simple
+"ye feature boring se, bilkul bekaar hai",0,simple
+yo dekh ke lagya kuch acha banaya se,1,slang
+match dekh ke lagya energy full thi bhai,1,slang
+bhai itna effort ke baad bhi ghatiya nikla,0,slang
+output clear na tha aur confuse kar diya,0,mixed
+yo project top level ka hoya se,1,mixed
+yo feature ka result correct na se,0,code-mixed
+"ye feature sahi se, full entertaining tha",1,simple
+chori ki acting me jaan thi par kahani dhili padgri thi,0,complex
+yo scene dekh ke hasi aa gyi,1,slang
+yo app update ke baad aur uljha sa lagne lag gya,0,code-mixed
+"yo app accha se, full entertaining tha",1,simple
+bhai isme kuch alag sa feel aaya jo pehle na dekha,1,slang
+kaam ho gya par usme woh baat na thi jo honi chahiye thi,0,mixed
+performance kaafi impressive hai,1,code-mixed
+yo feature swadu lagya par har baar kaam na kare,0,complex
+kaam ho to gya par mann me satisfaction na bani,0,complex
+gharwale khush the to thakan apne aap utar gyi,1,mixed
+mast sa lagya bhai yo,1,slang
+shuru me doubt tha par aakhir me bharosa ban gya,1,complex
+"yo result slow se, mood kharab kar diya aur overall experience theek tha",0,complex
+bhai yo kaam dekh ke satisfaction aa gya,1,slang
+yo system thoda slow se par overall theek se,1,mixed
+yo system stable lagya par ekdum crash ho gya,0,complex
+yo kaam bilkul fail se,0,simple

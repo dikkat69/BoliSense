@@ -1,0 +1,6 @@
+Category,Samples,Accuracy
+complex,24,0.8333
+mixed,21,0.8571
+slang,18,0.9444
+simple,14,0.9286
+code-mixed,5,1.0
